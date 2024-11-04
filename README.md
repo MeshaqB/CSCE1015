@@ -1,7 +1,7 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## MKB0280
 
 ## EUID
+MKB0280
 ## Favorite Professor
 Professor Hochstetler
